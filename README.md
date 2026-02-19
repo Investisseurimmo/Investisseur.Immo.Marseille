@@ -1,2 +1,110 @@
 # Investisseur.Immo.Marseille
-Pour investisseurs, Particulier vend lot de 4 appartements à côté de la gare st Charles et des universités de Marseille, immeuble et appartements rénovés, doubles vitrages , toiture, appartement s aux normes, proximité transport et commerces et autoroute, gare, plein centre . Prix par appartement allant de 65K€ à 85K€, Négociation possible
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vente Appartements Marseille</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f6fa;
+    color: #2c3e50;
+}
+
+header {
+    background: linear-gradient(120deg,#1e3c72,#2a5298);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+.description {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+    margin-bottom: 40px;
+    line-height: 1.6;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    gap: 20px;
+}
+
+.gallery img {
+    width: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+    height: 250px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+    transition: transform 0.3s;
+}
+
+.gallery img:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #2c3e50;
+    color: white;
+    margin-top: 40px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Lot d'appartements à vendre — Marseille</h1>
+<p>Investissement immobilier clé en main</p>
+</header>
+
+<div class="container">
+
+<div class="description" contenteditable="true">
+<p>
+Pour investisseurs, Particulier vend lot de 4 appartements à côté de la gare st Charles et des universités de Marseille, immeuble et appartements rénovés, doubles vitrages , toiture, appartement s aux normes, proximité transport et commerces et autoroute, gare, plein centre . Prix par appartement allant de 65K€ à 85K€, avec possibilité de négocier le prix pour le lot.
+</p>
+<p><strong>(Clique ici pour modifier la description directement)</strong></p>
+</div>
+
+<div class="gallery">
+<img src="images/appartement1.jpg">
+<img src="images/appartement2.jpg">
+<img src="images/appartement3.jpg">
+</div>
+
+</div>
+
+<footer>
+Contact propriétaire • Vente directe • Marseille
+</footer>
+
+</body>
+</html>
+
+Investisseur.Immo.Marseille/
+│ index.html
+└── images/
+    ├── appartement1.jpg
+    ├── appartement2.jpg
+    ├── appartement3.jpg
+
