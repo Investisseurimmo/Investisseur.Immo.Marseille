@@ -83,7 +83,7 @@ footer {
 <p>
 Pour investisseurs, Particulier vend lot de 4 appartements à côté de la gare st Charles et des universités de Marseille, immeuble et appartements rénovés, doubles vitrages , toiture, appartement s aux normes, proximité transport et commerces et autoroute, gare, plein centre . Prix par appartement allant de 65K€ à 85K€, avec possibilité de négocier le prix pour le lot.
 </p>
-<p><strong>(Clique ici pour modifier la description directement)</strong></p>
+<p><strong>(Pour investisseurs, Particulier vend lot de 4 appartements à côté de la gare st Charles et des universités de Marseille, immeuble et appartements rénovés, doubles vitrages , toiture, appartement s aux normes, proximité transport et commerces et autoroute, gare, plein centre . Prix par appartement allant de 65K€ à 85K€, avec possibilité de négocier le prix pour le lot.)</strong></p>
 </div>
 
 <div class="gallery">
@@ -95,7 +95,7 @@ Pour investisseurs, Particulier vend lot de 4 appartements à côté de la gare 
 </div>
 
 <footer>
-Contact propriétaire • Vente directe • Marseille
+Investisseur.immo.marseille@gmail.com • Vente directe • Marseille
 </footer>
 
 </body>
